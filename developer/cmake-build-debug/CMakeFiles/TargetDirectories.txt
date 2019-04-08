@@ -1,0 +1,4 @@
+/home/cxfeng/Documents/AIBone/AIBone/developer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cxfeng/Documents/AIBone/AIBone/developer/cmake-build-debug/CMakeFiles/AIBone.dir
+/home/cxfeng/Documents/AIBone/AIBone/developer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cxfeng/Documents/AIBone/AIBone/developer/cmake-build-debug/CMakeFiles/AIBone_autogen.dir

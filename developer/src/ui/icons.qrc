@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="">
+        <file>../../icon/load.png</file>
+        <file>../../icon/load_.png</file>
+        <file>../../icon/on.png</file>
+        <file>../../icon/off.png</file>
+        <file>../../icon/on_.png</file>
+        <file>../../icon/off_.png</file>
+
+        <file>../../icon/photo.png</file>
+        <file>../../icon/photo_.png</file>
+        <file>../../icon/pdf.png</file>
+        <file>../../icon/pdf_.png</file>
+        <file>../../icon/resetCamera.png</file>
+        <file>../../icon/resetCamera_.png</file>
+
+        <file>../../icon/plus.png</file>
+        <file>../../icon/less.png</file>
+        <file>../../icon/plus2.png</file>
+        <file>../../icon/plus2_.png</file>
+        <file>../../icon/less2.png</file>
+        <file>../../icon/less2_.png</file>
+        <file>../../icon/plus3.png</file>
+        <file>../../icon/plus3_.png</file>
+    </qresource>
+    <qresource prefix=" "/>
+</RCC>
